@@ -1,8 +1,15 @@
 {
-    "posts": [
+    "HouseState": [
       {
         "id": 1,
-        "title": "hello"
+        "name": "机器1",
+        "value": "100",
+        "state": 1
+      },{
+        "id": 2,
+        "name": "机器2",
+        "value": "200",
+        "state": 1
       }
     ],
     "profile": {
